@@ -1,3 +1,6 @@
+// The provided C code implements a Pushdown Automaton (PDA) for recognizing a specific language. The language accepted by 
+// this PDA is the set of binary strings with an equal number of 0s and 1s.The PDA uses a stack to keep track of 
+// the symbols and transitions between states based on the input symbols.
 
 #include<stdio.h>
 #include<string.h>
